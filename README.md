@@ -1,2 +1,6 @@
 # DSA-Lab-1
-this lab is about github.
+
+This is a lab task
+
+
+
